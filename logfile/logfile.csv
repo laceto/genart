@@ -1,0 +1,23 @@
+file_name	seed	formula_x	formula_y
+NA	NA	NA	NA
+2022-03-04-18-06_seed_4256.png	4256	runif(1, -1, 10) * x_i^2 - sin(y_i^2)	runif(1, -1, 10) * y_i^3 - cos(x_i^2) * y_i^4
+2022-03-04-18-07_seed_4270.png	4270	runif(1, -1, 10) * x_i^2 - sin(y_i^2)	runif(1, -1, 10) * y_i^3 - cos(x_i^2) * y_i^4
+2022-03-04-18-07_seed_327.png	327	runif(1, -1, 10) * x_i^2 - sin(y_i^2)	runif(1, -1, 10) * y_i^3 - cos(x_i^2) * y_i^4
+2022-03-04-18-08_seed_5163.png	5163	runif(1, -1, 10) * x_i^2 - sin(y_i^2)	runif(1, -1, 10) * y_i^3 - cos(x_i^2) * y_i^4
+2022-03-04-18-08_seed_7629.png	7629	runif(1, -1, 10) * x_i^2 - sin(y_i^2)	runif(1, -1, 10) * y_i^3 - cos(x_i^2) * y_i^4
+2022-03-04-18-13_seed_7759.png	7759	runif(1, -1, 10) * x_i	NULL
+2022-03-04-18-13_seed_7538.png	7538	runif(1, -1, 10) * x_i	runif(1, -1, 10) * y_i
+2022-03-04-18-14_seed_3078.png	3078	runif(1, -1, 10) * x_i	runif(1, -1, 10) * y_i
+2022-03-04-18-14_seed_1984.png	1984	runif(1, -1, 10) * x_i	runif(1, -1, 10) * y_i
+2022-03-04-18-15_seed_2932.png	2932	runif(1, -1, 10) * x_i	runif(1, -1, 10) * y_i
+2022-03-04-18-15_seed_1795.png	1795	runif(1, -1, 10) * x_i	runif(1, -1, 10) * y_i
+2022-03-04-18-17_seed_5302.png	5302	runif(1, -1, 10) * x_i + x_i^2	runif(1, -1, 10) * y_i + y_i^2
+2022-03-04-18-18_seed_887.png	887	runif(1, -1, 10) * x_i + x_i^2	runif(1, -1, 10) * y_i + y_i^2
+2022-03-04-18-18_seed_1856.png	1856	runif(1, -1, 10) * x_i + x_i^2	runif(1, -1, 10) * y_i + y_i^2
+2022-03-04-18-19_seed_1943.png	1943	runif(1, -1, 10) * x_i + x_i^2	runif(1, -1, 10) * y_i + y_i^2
+2022-03-04-18-20_seed_7926.png	7926	runif(1, -1, 10) * x_i + x_i^2	runif(1, -1, 10) * y_i + y_i^2
+2022-03-04-18-21_seed_4282.png	4282	runif(1, -1, 10) * x_i + runif(1, -1, 10) * x_i^2	runif(1, -1, 10) * y_i + runif(1, -1, 10) * y_i^2
+2022-03-04-18-21_seed_5360.png	5360	runif(1, -1, 10) * x_i + runif(1, -1, 10) * x_i^2	runif(1, -1, 10) * y_i + runif(1, -1, 10) * y_i^2
+2022-03-04-18-22_seed_1173.png	1173	runif(1, -1, 10) * x_i + runif(1, -1, 10) * x_i^2	runif(1, -1, 10) * y_i + runif(1, -1, 10) * y_i^2
+2022-03-04-18-23_seed_1747.png	1747	runif(1, -1, 10) * x_i + runif(1, -1, 10) * x_i^2	runif(1, -1, 10) * y_i + runif(1, -1, 10) * y_i^2
+2022-03-04-18-23_seed_9784.png	9784	runif(1, -1, 10) * x_i + runif(1, -1, 10) * x_i^2	runif(1, -1, 10) * y_i + runif(1, -1, 10) * y_i^2
